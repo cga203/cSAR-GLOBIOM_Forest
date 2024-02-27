@@ -1,5 +1,5 @@
 # cSAR-GLOBIOM_Forest
-Repository with supporting information for the paper Managing forests for biodiversity conservation and climate change mitigation.
+Repository with supporting information for the paper _Managing forests for biodiversity conservation and climate change mitigation_ authored by Cindy G. Azuero-Pedraza, Pekka Lauri, Andrey Lessa Derci Augustynczik, and Valerie M. Thomas in review at _Environmental Science & Technology Journal_ (2024).
 
 The files required for GAMS as input are:
 
